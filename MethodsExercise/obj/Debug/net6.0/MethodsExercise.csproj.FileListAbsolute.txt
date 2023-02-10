@@ -3,3 +3,13 @@ C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\Meth
 C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
 C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
 C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.exe
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.deps.json
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.runtimeconfig.json
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.dll
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.pdb
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.dll
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise.dll
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
+C:\Users\MAO\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll

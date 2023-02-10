@@ -5,18 +5,18 @@
         static void Main(string[] args)
         {
             Console.WriteLine("What is your name?");
-             String userName = Console.ReadLine();
+             string userName = Console.ReadLine();
 
             Console.WriteLine("What is your favorite color?");
-            String userFavoriteColor = Console.ReadLine();
+            string userFavoriteColor = Console.ReadLine();
 
             Console.WriteLine("What is your favorite animal?");
-            String userFavoriteAnimal = Console.ReadLine();
+            string userFavoriteAnimal = Console.ReadLine();
 
             Console.WriteLine("What is your favorite band?");
-            String userFavoriteBand = Console.ReadLine();
-            
-            Console.WriteLine()
+            string userFavoriteBand = Console.ReadLine();
+
+            Console.WriteLine();
         }
         //Exercise 2
         public static double Add(double x, double y) 
@@ -32,11 +32,14 @@
 
         public static int Quotient (int x, int y)
 
-        { return x / y; }
+        {
+            return x / y; 
+        }
 
         public static int Subtract (int x, int y)
         {
-            return x- y; }
+            return x- y;
+        }
 
 
 
